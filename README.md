@@ -19,8 +19,6 @@ Hola, Soy Mateo, soy un joven que le gusta el mundo del desarrolo, no tengo un e
 
 También soy un entusiasta y mantenedor del código abierto. Aprendí mucho de la comunidad de código abierto y me encanta cómo se realizó la colaboración y el intercambio de conocimientos a través del código abierto.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Necesitas algun trabajo?, [email](eduberi123@outlook.com) :)
 - 💬 pregúntame sobre cualquier cosa, estoy feliz de poder ayudarte;
