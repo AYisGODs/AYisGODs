@@ -15,7 +15,7 @@
 <br />
 
 
-Hola, Soy Mateo, soy un joven que le gusta el mundo del desarrolo, no tengo un estudio en alguna institucion pero aprendi por mi cuenta. Me gusta mucho relizar plugins de minecraft y tambien enseñar a personas a hacer lo que hago
+Hola, Soy Mateo, soy un joven que le gusta el mundo del desarrollo, no tengo un estudio en alguna institucion pero aprendi por mi cuenta. Me gusta mucho relizar plugins de minecraft y tambien enseñar a personas a hacer lo que hago
 
 También soy un entusiasta y mantenedor del código abierto. Aprendí mucho de la comunidad de código abierto y me encanta cómo se realizó la colaboración y el intercambio de conocimientos a través del código abierto.
 
